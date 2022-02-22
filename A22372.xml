@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King whereas, out of our owne obseruance in the late reigne of our most deare and royal father, we saw much disorder in and about his houshold ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22372</idno>
+            <idno type="STC">STC 8782</idno>
+            <idno type="STC">ESTC S122667</idno>
+            <idno type="EEBO-CITATION">33150789</idno>
+            <idno type="OCLC">ocm 33150789</idno>
+            <idno type="VID">28757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King whereas, out of our owne obseruance in the late reigne of our most deare and royal father, we saw much disorder in and about his houshold ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiesty,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1625.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at White-Hall, the sixe and tvventieth day of May, in the first yeere of Our Raigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal households --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Court and courtiers --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28757:1"/>
+            <!-- PDF PAGE 18 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>DIEV ET MON DROIT</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas, out of Our owne obſeruance in the late Reigne of Our moſt</hi> deare and Royal Father, We ſaw much diſorder in and about his houſhold, by reaſon of the many idle perſons, and other vnneceſſary attendants fol<g ref="char:EOLhyphen"/>lowing the ſame; Which euill, We, finding to bring much diſhonour ot Our Houſe, haue reſolued the reformation thereof, and haue vnder Our hand directed to Our Knight Marſhall, a Liſt of the number of all ſuch as sſhall be allowed to follow Our ſaid Hauſhold in their ſeuerall places &amp; Trades, whereunto they are aſſigned, vpon good caution firſt taken for their good behauiour, and performing ſuch other Articles as therein ſhall be contemed; Whoſe roomes and places be comming voyd, Our pleaſure is, ſhall be ſupplied by Our Knight Marſhall for the time being: We doe therefore ſtraitly charge and command, That all Tent-kee<g ref="char:EOLhyphen"/>pers, Artificers, and Landreſſes, together with all ſuch idle perſons, and hangers on Our Houſe, (others then ſuch, whoſe particular names are entred in the Roll by Vs ſigned, as allowed to follow Our Houſe) ſhall within foure and twenty houres after this Our Proclamation, depart from Our Court, and not returne thither againe, vpon paine of impriſonment, and other corporall puniſhments, and penalties to be inflicted for their contempts in this behalfe: And Wee require, and ſtraitly charge Our Kningt Marſhal, and all Officers, and Miniſters vnder him that he and they doe take a dayly and conſtant ſuruey of offenders in this kind, to the end that they may bee condignely puniſhed, and that they take care that Our pleaſure herein be from tune to time ſtrict<g ref="char:EOLhyphen"/>ly obſerued, by reſtraining all others (ſaue ſuch as are licenſed and allowed, as aforeſaid) to follow, or haue dependance vpon Our Houſe; And for ſuch Tents as are allowed to follow Vs, Wee will that they be appointed and placed by the direction of Our Kinght Marſhall or his deputy, in ſuch manner, as they may be no offence or annoyance to Our Perſon, or Houſhold.</p>
+            <p>And for ſuch as doe follow, not hauing any dependance at all, Our will and pleaſure is, That euery ſuch maſterleſſe man, ſhall forthwith depart the Court, vpon paine of whipping.</p>
+            <p>Alſo, that all Petitioners, hauing had their anſwere, do preſently depart the Court, vpon paine of impriſonment.</p>
+            <p>And alſo, that all ſeruants whatſoeuer, being put away for miſdemeanors, be preſented to Our Marſhall or his deputie, whereby they may be knowen, and this vpon paine of Our diſpleaſure.</p>
+            <p>And that no Chamber-keeper, nor any of Our Footmen, or other Our ſeruant or ſeruants, ſhal giue entertainment to any perſon whatſoeuer, to follow or depend vpon him or them, but ſuch as ſhalbe allowed, according to Our late Proclamation in that behalfe publiſhed, for reſtraint of diſor<g ref="char:EOLhyphen"/>derly &amp; vnneceſſary reſort to the Court. And the better alſo to ſuppreſſe the diſorders and abuſes happening in Our Court, by reaſon of Landry-women hauing dayly acceſſe into Our Houſe, We doe therefore ſtraitly charge and command, that no Landreſſe ſhall haue recourſe to any Officer, lodging within Our Houſe, but that the Offices and Chambers vnto which they waſh, doe ſend their ſeruants out vnto them with, and for their linnen; and that all ſuch Landreſſes as are al<g ref="char:EOLhyphen"/>lowed to follow Our Houſe, aſwell the Landreſſe to Our Body, as others, ſhall follow themſelues in perſon, and not ſupply their places by their ſeruants and maides, who liuing with<g ref="char:EOLhyphen"/>out gouernement, are the cauſe and occaſion of ſo great diſorder amongſt them that follow Vs: And to that end, We will and command Our Porters at Our Gate, to ſee this Our pleaſure to be duely obſerued and kept.</p>
+            <p>And laſtly, We ſtraitly require, charge and command Our Knight Marſhall to haue an eſpeci<g ref="char:EOLhyphen"/>all care for execution of this Our Royall will and commandement, as hee will giue acount to Vs thereof, and tender Our high diſpleaſure, for neglect of this ſeruice ſo acceptable vnto Vs.</p>
+            <closer>
+               <dateline>Giuen at White-Hall <date>the ſixe and twentieth day of May, in the firſt yeere of Our Raigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by BONHAM NORTON and IOHN BILL, Printers to the <hi>Kings moſt Excellent Maieſty.</hi> 1625.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
